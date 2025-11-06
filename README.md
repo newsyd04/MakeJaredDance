@@ -2,13 +2,13 @@
 
 An opensource project -> built to make Jared dance.
 
-Fork it. \n
-Break it. \n
-Add animations. \n
-Add bizarre features.\n
-Add useless buttons.  \n
-Go down rabbit holes. \n
-Experiment. \n
+Fork it. <br>
+Break it. <br>
+Add animations. <br>
+Add bizarre features. <br>
+Add useless buttons. <br>
+Go down rabbit holes. <br>
+Experiment. <br>
 Make Jared dance in ways no one ever expected.  
 
 ## ⚙️ Setup
