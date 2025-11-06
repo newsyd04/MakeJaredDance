@@ -1,14 +1,14 @@
-# 🕺 MakeJaredDance
+# 🕺 MakeJaredDance 🕺
 
-A modern React + Vite + TypeScript + Tailwind CSS project - built to make Jared dance.
+An opensource project -> built to make Jared dance.
 
-Fork it. 
-Break it. 
-Add animations. 
-Add bizarre features.
-Add useless buttons.  
-Go down rabbit holes. 
-Experiment. 
+Fork it. \n
+Break it. \n
+Add animations. \n
+Add bizarre features.\n
+Add useless buttons.  \n
+Go down rabbit holes. \n
+Experiment. \n
 Make Jared dance in ways no one ever expected.  
 
 ## ⚙️ Setup
