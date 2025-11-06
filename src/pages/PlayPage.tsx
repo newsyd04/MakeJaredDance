@@ -1,5 +1,4 @@
-import React from 'react'
-import { Route, Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 const PlayPage = () => {
     const navigate = useNavigate();
