@@ -33,7 +33,7 @@ const DancePage: React.FC = () => (
 
     {/* Sparkle text */}
     <div className="absolute bottom-10 text-pink-700 text-3xl font-bold drop-shadow animate-bounce">
-      ✨ Go Adam Go ✨
+      ✨ Go Jared Go ✨
     </div>
   </div>
 );
